@@ -2,7 +2,7 @@
 Simple to do list
 
 ## Demo
-
+https://marcinmachnicki.github.io/to-do-list/
 
 ## Preview
 
